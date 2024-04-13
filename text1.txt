@@ -1,0 +1,3 @@
+Domains in Computer Science :
+1. AI
+2. Full stack development
